@@ -1,7 +1,7 @@
 # Continuous Deployment using AWS Code Pipeline and S3
 
 
-## TL;DR
+## Summary
 Create an S3 bucket for static website hosting, then create a continuous deployment pipeline (using AWS Code Pipeline) to automatically deploy the code whenever changes are made.
 
 ## The Game
